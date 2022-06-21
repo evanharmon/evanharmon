@@ -5,7 +5,9 @@
 
 ### 🌇 My Latest Adventure
 Founded an R&D Cloud team at iZotope with [Jonathan Shapiro](https://www.linkedin.com/in/jonathan-shapiro-7b89748/).
-Created groundbreaking new apps with cloud DSP architectures with the help of a dream team of:
+Created groundbreaking new apps in the areas of mastering, audio repair, and song idea generation using cloud DSP architectures
+
+Huge 📣 out the most highly performing team I've ever been a part of:
 
 * [Theo Petsas](https://www.linkedin.com/in/theofilos-petsas-b7282b137/)
 * [Ryan McHenry](https://www.linkedin.com/in/ryanmarshallmc/)
@@ -16,6 +18,14 @@ Created groundbreaking new apps with cloud DSP architectures with the help of a 
 
 ### 🌅 My Next Adventure
 Exploring new opportunities as you read this!
+
+<br>
+
+### 📚 Recommended Reading
+The following books have shaped the way I think about engineering teams
+
+- [Team Topologies](https://teamtopologies.com/)
+- [Accelerate](https://nicolefv.com/book)
 
 <br>
 
