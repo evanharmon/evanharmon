@@ -1,4 +1,14 @@
-### Hi there 👋
+<!-- thinking exploration / jungle / adventure theme -->
+### 👋 A little bit about me...
+
+
+### :new_moon_with_face: My Latest Adventure
+Founding an R&D Cloud team at iZotope with Jonathan Shapiro
+
+### :sunrise_over_mountains: My Next Adventure
+Exploring new opportunities as you read this!
+
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/evanpatrickharmon/)
 
 <!--
 **evanharmon/evanharmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
