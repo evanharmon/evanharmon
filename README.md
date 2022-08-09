@@ -1,9 +1,18 @@
 <!-- thinking exploration / jungle / adventure theme -->
 ### 👋 A little bit about me...
 
-<br>
+<img align="right" width="150" height="150" src="./aws-certified-solutions-architect-professional-150x150.png"/>
+<br/>
+<br/>
+I have 7+ years as a fullstack cloud engineer building products on AWS.
+<br/>
+I love to learn new tech and recently passed my AWS Solutions Architect Professional exam.
+<br/>
+Looking forward to being a strong contributor to my next team. 🍿
 
-### 🌇 My Latest Adventure
+<br clear="right"/>
+
+### 🌇 My Last Adventure
 Founded an R&D Cloud team at [iZotope](https://izotope.com/) with [Jonathan Shapiro](https://www.linkedin.com/in/jonathan-shapiro-7b89748/).
 Created groundbreaking new apps in the areas of mastering, audio repair, and song idea generation using cloud DSP architectures
 
@@ -30,21 +39,6 @@ The following books have shaped the way I think about engineering teams
 - [Team Topologies](https://teamtopologies.com/)
 - [Accelerate](https://nicolefv.com/book)
 
-<br>
+<br/>
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/evanpatrickharmon/)
-
-<!--
-**evanharmon/evanharmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
