@@ -7,7 +7,10 @@
 Founded an R&D Cloud team at [iZotope](https://izotope.com/) with [Jonathan Shapiro](https://www.linkedin.com/in/jonathan-shapiro-7b89748/).
 Created groundbreaking new apps in the areas of mastering, audio repair, and song idea generation using cloud DSP architectures
 
-Huge 📣 out the most highly performing team I've ever been a part of:
+One of our last products :notes: [Trackstarter](https://trackstarter.labs.izotope.com/) :notes: is still live and available to check out. 
+It is a web app my team and I created to help get started on new songs.
+
+Huge 📣 out the most high performing team I've ever been a part of:
 
 * [Theo Petsas](https://www.linkedin.com/in/theofilos-petsas-b7282b137/)
 * [Ryan McHenry](https://www.linkedin.com/in/ryanmarshallmc/)
