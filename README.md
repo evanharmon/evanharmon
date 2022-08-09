@@ -9,9 +9,13 @@ I have 7+ years as a fullstack cloud engineer building products on AWS.
 I love to learn new tech and recently passed my AWS Solutions Architect Professional exam.
 <br/>
 Looking forward to being a strong contributor to my next team. 🍿
+<br/>
+
 
 <br clear="right"/>
 
+Check out my [mono repo](https://github.com/evanharmon/in-mono) for side projects, POCs, and continual learning
+<br>
 ### 🌇 My Last Adventure
 Founded an R&D Cloud team at [iZotope](https://izotope.com/) with [Jonathan Shapiro](https://www.linkedin.com/in/jonathan-shapiro-7b89748/).
 Created groundbreaking new apps in the areas of mastering, audio repair, and song idea generation using cloud DSP architectures
