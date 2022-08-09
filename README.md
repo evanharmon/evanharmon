@@ -4,7 +4,7 @@
 <img align="right" width="150" height="150" src="./aws-certified-solutions-architect-professional-150x150.png"/>
 <br/>
 <br/>
-I have 7+ years as a fullstack cloud engineer building products on AWS.
+I have 7+ years experience as a fullstack cloud engineer building products on AWS.
 <br/>
 I love to learn new tech and recently passed my AWS Solutions Architect Professional exam.
 <br/>
