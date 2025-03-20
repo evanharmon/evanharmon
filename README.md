@@ -4,7 +4,7 @@
 <img align="right" width="150" height="150" src="./aws-certified-solutions-architect-professional-150x150.png"/>
 <br/>
 <br/>
-I have 7+ years experience as a fullstack cloud engineer building products on AWS.
+I have 10+ years experience as a fullstack cloud engineer building products on AWS.
 <br/>
 I love to learn new tech and recently passed my AWS Solutions Architect Professional exam. 🍿
 <br/>
@@ -14,7 +14,7 @@ I love to learn new tech and recently passed my AWS Solutions Architect Professi
 
 Check out my [mono repo](https://github.com/evanharmon/in-mono) for side projects, POCs, and continual learning
 <br>
-### 🌇 My Last Adventure
+### 🌇 My Previous Adventures
 Founding member of an R&D Cloud team at [iZotope](https://izotope.com/).
 Helped create groundbreaking new apps in the areas of mastering, audio repair, and song idea generation using cloud DSP architectures
 
