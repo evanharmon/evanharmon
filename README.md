@@ -6,7 +6,7 @@
 <br/>
 I have 10+ years experience as a fullstack cloud engineer building products on AWS.
 <br/>
-I love to learn new tech and recently passed my AWS Solutions Architect Professional exam. 🍿
+I love to learn new tech. I am a certified AWS Solutions Architect Professional and Kubernetes Administrator. 🍿
 <br/>
 
 
